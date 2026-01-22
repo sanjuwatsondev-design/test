@@ -1,4 +1,4 @@
 console.log("login done");
 
 
-console.log("added some fucntionaltiy");
+console.log("added some fuctionality1");
